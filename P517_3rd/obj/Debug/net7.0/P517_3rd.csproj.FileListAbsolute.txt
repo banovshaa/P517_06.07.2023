@@ -1,0 +1,15 @@
+/Users/banovsha/Projects/P517_3rd/P517_3rd/bin/Debug/net7.0/P517_3rd
+/Users/banovsha/Projects/P517_3rd/P517_3rd/bin/Debug/net7.0/P517_3rd.deps.json
+/Users/banovsha/Projects/P517_3rd/P517_3rd/bin/Debug/net7.0/P517_3rd.runtimeconfig.json
+/Users/banovsha/Projects/P517_3rd/P517_3rd/bin/Debug/net7.0/P517_3rd.dll
+/Users/banovsha/Projects/P517_3rd/P517_3rd/bin/Debug/net7.0/P517_3rd.pdb
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.csproj.AssemblyReference.cache
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.AssemblyInfoInputs.cache
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.AssemblyInfo.cs
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.csproj.CoreCompileInputs.cache
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.dll
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/refint/P517_3rd.dll
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.pdb
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/P517_3rd.genruntimeconfig.cache
+/Users/banovsha/Projects/P517_3rd/P517_3rd/obj/Debug/net7.0/ref/P517_3rd.dll

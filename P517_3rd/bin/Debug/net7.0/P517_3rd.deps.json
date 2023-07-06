@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "P517_3rd/1.0.0": {
+        "runtime": {
+          "P517_3rd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P517_3rd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
